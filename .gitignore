@@ -1,3 +1,5 @@
 /*.*
 !.gitignore
 /maratona
+!/README.md
+/leetcode
